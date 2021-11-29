@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nina221215/githab/issues"
   },
-  "homepage": "https://github.com/nina221215/githab#readme"
+  "homepage": "https://github.com/nina221215/githab#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
